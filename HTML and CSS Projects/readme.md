@@ -4,8 +4,8 @@
  ## PROJECTS
  
  -[PROJECT1](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2001)<br>
- -[PROJECT2]( )<br>
- -[PROJECT3]( )<br>
- -[PROJECT4]( )<br>
- -[PROJECT5]( )<br>
- -[PROJECT6]( )<br>
+ -[PROJECT2](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2002 )<br>
+ -[PROJECT3]( https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2003)<br>
+ -[PROJECT4](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2004)<br>
+ -[PROJECT5]( https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2005)<br>
+ -[PROJECT6](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006)<br>
