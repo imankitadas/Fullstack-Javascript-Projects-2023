@@ -3,9 +3,9 @@
 
  ## PROJECTS
  
- -[PROJECT1]( )
- -[PROJECT1]( )
- -[PROJECT1]( )
- -[PROJECT1]( )
- -[PROJECT1]( )
- -[PROJECT1]( )
+ -[PROJECT1]( )<br>
+ -[PROJECT2]( )<br>
+ -[PROJECT3]( )<br>
+ -[PROJECT4]( )<br>
+ -[PROJECT5]( )<br>
+ -[PROJECT6]( )<br>
