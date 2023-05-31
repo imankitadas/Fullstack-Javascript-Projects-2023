@@ -1,6 +1,6 @@
 ## PROJECT 01:  `HTML/CSS WEBSITE`
 
-**Welcome** to my second project where I showcase my skills in HTML and CSS. Check out the output below, which features a sleek and modern website design.<br><br>
+**Welcome** to my First project where I showcase my skills in HTML and CSS. Check out the output below, which features a sleek and modern website design.<br><br>
 
 
 ![IMAGE01](output.png)
