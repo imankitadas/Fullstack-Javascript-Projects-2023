@@ -1,4 +1,5 @@
-## PROJECT 07:  `HTML/CSS WEBSITE`
+## PROJECT 07 
+**HTML/CSS Credit card landing page**
 
 **Welcome** to my seventh project where I showcase my skills in HTML and CSS.<br><br>
 
