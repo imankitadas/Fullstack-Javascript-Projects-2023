@@ -1,8 +1,7 @@
-## PROJECT 04:  `HTML/CSS WEBSITE`
+## PROJECT 07:  `HTML/CSS WEBSITE`
 
-**Welcome** to my fourth project where I showcase my skills in HTML and CSS. Check out the output below, which features a sleek and modern website design.<br><br>
+**Welcome** to my seventh project where I showcase my skills in HTML and CSS.<br><br>
 
-![IMAGE01](output.png )<br>
 
 As always, I'm open to feedback and suggestions for improvement. If you have any comments or questions, don't hesitate to reach out. And don't forget to give credit where credit is due - this project was created by Ankita Das.
 

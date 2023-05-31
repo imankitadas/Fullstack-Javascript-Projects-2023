@@ -1,0 +1,498 @@
+*{ 
+    margin:0%;
+    padding:0%;
+}
+
+body{ 
+   height:100vh ; 
+   width:100% ;
+   overflow-x: hidden;  
+   background-color: #000000;
+   color: white;
+}
+
+.navbar{ 
+    background-color:#0d0d0d;
+    padding: 8px 50px;
+}
+
+.navbar-main{ 
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width:100%; 
+   
+}
+
+.logo img{ 
+    width:100%;
+    justify-content: start;
+    align-items: center;
+}
+
+ul{ 
+    display: flex;
+    align-items: center;
+    gap:50px;
+    margin-left:30px ; 
+    
+}
+
+ul li{ 
+   list-style-type:none; 
+   color:#ffffffef ;  
+   font-size:1em;   
+   font-family:sans-serif ;
+   font-weight: 300;
+}
+ 
+
+.contact-details{
+    display: flex;
+    justify-content: flex-end;
+    color: #ffffffef;
+    width: 20%;
+    font: 1.0em "Fira Sans", sans-serif;
+    
+}
+.contact-details i{ 
+    margin-left: 8px;
+    width:30px;
+}
+
+.contact-details p{ 
+    position: relative;
+    right:20px;
+    cursor: pointer;
+}
+
+/* Content */
+.hero-section{ 
+    width:100%;
+    display:flex;
+    justify-content:center;
+    overflow-x: hidden;
+    
+}
+.left{ 
+    width: 100%;
+    padding: 55px 50px;
+}
+
+.left .heading{ 
+     font:2.8em "Fira Sans", sans-serif; 
+     line-height:2em ;
+}
+   
+
+.heading span{ 
+    color: #F637EC;
+}
+
+.left .para p{ 
+    margin-top:40px;
+    font-size:16px;
+    color:#ffffffa5;
+    font-family:"Fira Sans", sans-serif;
+}
+.left .button{ 
+    margin-top:50px;
+    display:flex;
+    align-items: center;
+}
+.button .arrow img{ 
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    width:45px;
+    position:relative;
+    right:10px;
+}
+
+.button span{ 
+    position: relative;
+    right: 26px;
+    font-family:"Fira Sans", sans-serif ;
+}
+.user-Experience{ 
+    margin-top:50px ;
+    display: flex;
+    align-items: center;
+    
+}
+.first-part{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.first-part h1{ 
+   font-size:35px ;
+}
+
+.first-part span{ 
+    color: #F637EC;
+    margin-right:20px ;
+}
+
+.happy-user{ 
+    font:14px "Fira Sans", sans-serif ;
+    color: #ffffffd3;
+    padding-right:50px ;
+}
+
+.second-part{ 
+   margin-left:50px ; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.second-part span{ 
+    color: #F637EC;
+    margin-right:20px ;
+}
+.second-part h1{ 
+    font-size:35px ;
+}
+.years-exp{ 
+    font:14px "Fira Sans", sans-serif ;
+    color: #ffffffd3;
+}
+.right .frontcards{ 
+    width:50%;
+    position: absolute;
+    right:-10%;
+    top:40px;
+}
+.right .backcards{ 
+    width:50%;
+    position: absolute;
+    right:130px;
+    top:20px;
+} 
+
+/* Branding */
+.brand{ 
+    width: 100%;
+    margin:auto;
+    padding:65px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color:#80808036; 
+    margin-top:110px;
+}
+.brand img{ 
+    width:8%;
+}
+ 
+/* Payment section */
+.payments{ 
+ width:90%;
+ margin-top:70px;
+ padding:30px 50px ;
+} 
+
+.payment-section{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.payment-section h1{ 
+    font:5em "Fira Sans", sans-serif ;
+   line-height:1.3em ;
+   
+}
+.payment-section h1 span{ 
+    color: #F637EC;
+}
+.payment-section p{ 
+    font:1.3em "Fira Sans", sans-serif ;
+    line-height:1.6em ;
+    color: #ffffff82;
+}
+
+.row{ 
+    margin-top:150px ;
+    display: flex;
+    justify-content:space-around;
+    margin-bottom:80px ;
+}
+
+.diff-column img{ 
+    margin-left:20%;
+
+ }
+
+.column p{ 
+    text-align: center;
+    font:1.5em "Fira Sans", sans-serif ;
+    margin-top:20px ;
+
+}
+
+.diff-column p{ 
+    text-align: center;
+    font:1.5em "Fira Sans", sans-serif ;
+    margin-top:20px ;
+    line-height:1.5em;
+    margin-bottom:10px ;
+}
+
+.column{ 
+    /* flex-basis:31%; */
+    margin-top:50px ;
+    background-color:#80808036;
+    border:1px solid #ffffffa8;
+    border-bottom: none;
+    border-right:none ;
+    padding:20px 80px;
+    box-sizing: border-box;
+    margin-bottom:10px ;
+}
+.diff-column{ 
+    /* flex-basis:31%; */
+    background-color:#80808036;
+    border:2px solid #ffffffd7;
+    border-bottom:1px solid #ffffff77;
+    border-right:none ;
+    padding:20px 80px;
+    box-sizing: border-box;
+    margin-bottom:40px;
+}
+
+/* Card choices */
+
+.card-choices{ 
+    width:100%;
+    margin: auto;
+    text-align: center;
+    background-color:#fceffb ;
+}
+.card-choices h1{ 
+    padding-top:90px;
+    font:4.6em "Fira Sans", sans-serif ;
+    color:#000000fe;
+    line-height:1.3em ;
+}
+.card-choices span{ 
+    font:1em "Fira Sans", sans-serif ;
+    color:#ed37f6 ;
+    font-weight:600 ;
+}
+.card-choices p{
+    padding-top:70px ;
+    font:1.3em "Fira Sans", sans-serif;
+    color:#000000a0;
+    line-height:1.4em ;
+}
+.vcard img{ 
+    position: relative;
+    top:-30px;
+}
+
+/* Feedback section */
+
+.feedback{ 
+    width:100%; 
+    text-align: center;
+    margin:auto;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.feedback h1{ 
+    padding-top:95px;
+    font:5.2em "Fira Sans", sans-serif;
+    line-height:1.3em;
+
+}
+.feedback .upper-para{ 
+    padding-top:60px;
+    color:#ffffffa9;
+    font:1.4em "Fira Sans", sans-serif ;
+    line-height:1.5em;
+    padding-bottom:8%;
+}
+.feedback span{ 
+    color: #F637EC;
+    font-weight:500;
+}
+
+.first-row{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+} 
+
+.rating-one{ 
+   background-color:#8080808f ;
+   text-align:left;
+   padding:25px 70px ;
+   margin-bottom:5% ;
+   border:1px solid white ;
+   border-bottom:0;
+}
+
+.rating-two{ 
+    background-color:#3b444b8a ;
+    padding:25px 70px ;
+    text-align:left;
+    margin-bottom:5%;
+    border:1px solid white ;
+    border-bottom:0;
+}
+
+.rating-col{ 
+   background-color:#3b444b8a ;
+   text-align: left;
+   padding:25px 70px ;
+   margin-bottom:20px ;
+   border:1px solid white ;
+   border-bottom:0;
+}
+
+
+.second-row{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.rating-one .lower-para{ 
+   color:#ffffffc5;
+   font:1.1em "Fira Sans", sans-serif;
+   padding-top:20px;
+}
+
+.rating-two .lower-para{ 
+    font:1.1em  "Fira Sans", sans-serif;
+    padding-top:20px ;
+ }
+
+ .rating-col .lower-para{ 
+    font:1.1em  "Fira Sans", sans-serif;
+    padding-top:20px ;
+ }
+ .rating-one .name{ 
+    color:#ffffffc5;
+ }
+ .name{ 
+    font:1.1em  "Fira Sans", sans-serif;
+    padding-top:20px ;
+ }
+ .swiping{
+    display: flex; 
+    align-items: center;
+    justify-content:center;
+    gap:10px;
+    padding-top:7%;
+    
+ }
+ .swiping div{ 
+    height:15px;
+    width:15px;
+    border-radius: 50%;
+    background-color: #292929;
+    margin-bottom:40px;
+}
+.swiping div:first-child{ 
+    width:90px;
+    border-radius:999px ;
+    background-color:#F637EC; 
+    box-shadow:0 0 30px 2px #fc61f7f3 ;
+}
+
+/* Last Section */
+
+.customize{ 
+    width:100%;
+    text-align: center;
+    margin-top:60px ;
+}
+
+.last-heading h1{ 
+    font:4.5em  "Fira Sans", sans-serif ;
+    line-height:1.3em ;
+    font-weight:600;
+}
+.last-heading .unique{ 
+    color: #000000;
+}
+.last-btn{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:60px ;
+}
+.last-btn img{
+   width:65px;
+
+}
+.last-btn span{ 
+    font:1.2em "Fira Sans", sans-serif;
+    position: relative;
+    right:30px ;
+}
+
+.imagia .rectangle-1{ 
+    width:100vw ;
+    position: absolute;
+    z-index: 1;
+}
+.imagia .rectangle-2{ 
+    width:100vw ;
+    position:relative;
+}
+
+.imagia .left-img{ 
+    position: absolute;
+    top:635%;
+    right:0%;
+    z-index:1;
+} 
+.imagia .right-img{ 
+    position: absolute;
+    top:630%;
+    left:0%;
+    z-index:1;
+}
+.customize .last-heading{ 
+ position:absolute;
+ top:650%;
+ left:18%;
+ z-index:1;
+ }
+
+/* Footer Section */
+
+.footor{ 
+    width:100%;
+}
+.last-section{ 
+    display:flex;
+    align-items:center;
+    justify-content:start;
+    padding:8% ;
+}
+
+.last-section img{ 
+     width:11%;
+}
+
+.footer-menu ul{ 
+    display:flex;
+    margin-left:350px;
+    gap:50px;
+}
+ ul li{ 
+    list-style-type: none;
+    font:1em "Fira Sans", sans-serif ;
+ }
+ ul li:hover{ 
+    color: #ed37f6;
+    cursor: pointer;
+ }
+ 
