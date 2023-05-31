@@ -1,4 +1,8 @@
-## PROJECT 05:  `HTML/CSS WEBSITE`
+### PROJECT 05: HTML/CSS WEBSITE
+
+[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/project%2005)
+
+#### TOOLS USED: HTML & CSS
 
 **Welcome** to my fifth project where I showcase my skills in HTML and CSS. Check out the output below, which features a sleek and modern website design.<br><br>
 
