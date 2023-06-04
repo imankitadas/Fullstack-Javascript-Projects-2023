@@ -5,7 +5,7 @@
 ## 📝List of Articles: 
 
 1. :pencil2:  `AN INTRODUCTION TO WEB AND HTML`:point_right: [LINK](https://hashnode.com/edit/clhhtmev0000409l12fnv9p56)
-2. :pencil2:  `HTML Input Types`:point_right: [LINK](https://hashnode.com/edit/clhvvxttz000i09ma9blw9kou)
+2. :pencil2:  `HTML Input Elements`:point_right: [LINK](https://hashnode.com/edit/clhvvxttz000i09ma9blw9kou)
 3. :pencil2: `Audio Tag & Vedio Tag  `:point_right:  [LINK](https://hashnode.com/edit/cli8kud2e000009ld39r9f0ru)
 
 
