@@ -405,6 +405,14 @@ ul li{
     box-shadow:0 0 30px 2px #fc61f7f3 ;
 }
 
+.swiping div:hover{ 
+    width:90px;
+    border-radius:999px ;
+    background-color:#F637EC; 
+    box-shadow:0 0 30px 2px #fc61f7f3;
+}
+
+
 /* Last Section */
 
 .customize{ 
