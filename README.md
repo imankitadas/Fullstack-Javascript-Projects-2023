@@ -9,12 +9,11 @@
 3. :pencil2: `Audio Tag & Vedio Tag  `:point_right:  [LINK](https://hashnode.com/edit/cli8kud2e000009ld39r9f0ru)
 
 
-<<<<<<< HEAD
 - [Article 1](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/Article/Article1) ✏️
 - [Article 2](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/Article/Article2) ✏️
 - [Article 3](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/Article/Article3) ✏️
 - [Article 4](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/Article/Article4) ✏️
-=======
+
 ### 💻List of Projects:
 
 
