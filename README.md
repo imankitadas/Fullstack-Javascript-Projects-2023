@@ -4,16 +4,10 @@
 
 ## 📝List of Articles: 
 
-1. :pencil2:  AN INTRODUCTION TO WEB AND HTML:point_right: [LINK](https://hashnode.com/edit/clhhtmev0000409l12fnv9p56)
-2. :pencil2:  HTML Input Elements:point_right: [LINK](https://hashnode.com/edit/clhvvxttz000i09ma9blw9kou)
-3. :pencil2:  Audio Tag & Vedio Tag:point_right:  [LINK](https://hashnode.com/edit/cli8kud2e000009ld39r9f0ru)
-4. :pencil2: CSS Selectors:point_right:
-
-- [Article 1](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/Article/Article1) ✏️
-- [Article 2](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/Article/Article2) ✏️
-- [Article 3](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/Article/Article3) ✏️
-- [Article 4](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/Article/Article4) ✏️
-
+1. :pencil2:  AN INTRODUCTION TO WEB AND HTML:point_right: [LINK](https://ankita11.hashnode.dev/an-introduction-to-web-and-html)
+2. :pencil2:  HTML Input Elements:point_right: [LINK](https://ankita11.hashnode.dev/an-overview-of-html-input-elements)
+3. :pencil2: AUDIO AND VEDIO TAG:point_right:  [LINK](https://ankita11.hashnode.dev/transforming-web-media-embrace-the-magic-of-audio-and-video-tags)
+4. :pencil2: CSS SELECTORS:point_right: [LINK](https://ankita11.hashnode.dev/mastering-css-selectors)
 
 ### 💻List of Projects:
 
@@ -23,7 +17,8 @@
 `PROJECT 04`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2004) <br>
 `PROJECT 05`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2005) <br>
 `PROJECT 06`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006) <br>
-`PROJECT 07` Credit Card Landing Page📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page) 
+`PROJECT 07` CREDIT CARD AND LANDING PAGE📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)<br>
+🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page/index.html)
 
 ### Contact Information✏️
 
