@@ -16,9 +16,12 @@
 `PROJECT 03`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2003) <br>
 `PROJECT 04`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2004) <br>
 `PROJECT 05`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2005) <br>
-`PROJECT 06`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006) <br>
+`PROJECT 06`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006) <br><br>
+
 `PROJECT 07` CREDIT CARD AND LANDING PAGE📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)<br>
-🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page/index.html)
+🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page/index.html)<br>
+`PROJECT 08` HOSTING SITE LANDING PAGE📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)<br>
+🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page/index.html)
 
 ### Contact Information✏️
 
