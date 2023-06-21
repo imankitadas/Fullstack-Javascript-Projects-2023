@@ -4,48 +4,39 @@
 }
 
 body{ 
-   height:100vh ; 
-   width:100% ;
-   overflow-x: hidden;  
-   background-color: #000000;
+   height:100vh; 
+   width:100%;
+   overflow-x:hidden;  
+   background-color:#000000;
    color: white;
 }
 
-.navbar{ 
+nav{ 
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     background-color:#0d0d0d;
     padding: 8px 50px;
 }
 
-.navbar-main{ 
-   display: flex;
-   justify-content: space-between;
-   align-items: center;
-   width:100%; 
-   
+ .logo img{ 
+    width:140px;
 }
 
-.logo img{ 
-    width:100%;
-    justify-content: start;
-    align-items: center;
-}
-
-ul{ 
-    display: flex;
+.nav-list{ 
+    display:flex;
     align-items: center;
     gap:50px;
-    margin-left:30px ; 
-    
 }
 
-ul li{ 
-   list-style-type:none; 
-   color:#ffffffef ;  
-   font-size:1em;   
-   font-family:sans-serif ;
-   font-weight: 300;
+.nav-list li{ 
+    list-style-type:none; 
+    color:#ffffffef;  
+    font-size:1em;   
+    font-family:sans-serif;
+    font-weight:300;
+    cursor: pointer;
 }
- 
 
 .contact-details{
     display: flex;
@@ -102,7 +93,6 @@ ul li{
 }
 .button .arrow img{ 
     display: flex;
-    /* justify-content: center; */
     align-items: center;
     width:45px;
     position:relative;
@@ -260,6 +250,19 @@ ul li{
     padding:20px 80px;
     box-sizing: border-box;
     margin-bottom:40px;
+}
+
+.column:hover{ 
+    background-color:#f637edbd ;
+    transform: scale(1.09);
+    transition:0.5s ease-out;
+    border:1px solid #ffffff;
+} 
+.diff-column:hover{ 
+    background-color:#f637edbd ;
+    transform: scale(1.09);
+    transition:0.5s ease-out;
+    border:1px solid #ffffff;
 }
 
 /* Card choices */
@@ -457,13 +460,13 @@ ul li{
 
 .imagia .left-img{ 
     position: absolute;
-    top:635%;
+    top:638%;
     right:0%;
     z-index:1;
 } 
 .imagia .right-img{ 
     position: absolute;
-    top:630%;
+    top:635%;
     left:0%;
     z-index:1;
 }
@@ -495,12 +498,14 @@ ul li{
     margin-left:350px;
     gap:50px;
 }
- ul li{ 
+.footer-menu ul li{ 
     list-style-type: none;
     font:1em "Fira Sans", sans-serif ;
  }
- ul li:hover{ 
+ .flist li:hover{ 
     color: #ed37f6;
+    transform: scale(1.09);
+    transition:0.5s ease-out;
     cursor: pointer;
  }
  

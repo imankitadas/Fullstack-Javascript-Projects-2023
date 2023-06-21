@@ -9,7 +9,6 @@ body{
    background:#FFFFFF ;
    color: #000000;
    position: absolute;
-   
 }
 
 .navbar{ 
@@ -21,8 +20,6 @@ body{
      padding: 5vh 10vh;
 }
     
-
-
 .navbar img{ 
     float: left;
     width: 75%;
