@@ -1,6 +1,6 @@
 # HTML & CSS 
 
-### Welcome to the HTML & CSS Projects repository! This collection showcases basic HTML and CSS projects that will expand over time. Dive into creative designs and technical implementations. Join me on this journey as we explore a variety of projects built over time 
+### Welcome to the HTML & CSS Projects repository! This collection showcases basic HTML and CSS projects that will expand over time. Dive into creative designs and technical implementations. Join me on this journey as we explore a variety of projects built over time. 
 
 <br>
 
