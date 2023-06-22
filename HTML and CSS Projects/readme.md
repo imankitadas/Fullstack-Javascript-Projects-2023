@@ -13,7 +13,7 @@
 [PROJECT 04](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2004) <br>
 [PROJECT 05](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2005) <br>
 [PROJECT 06](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006) <br>
-[Credit Card Landing Page](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page) <br>
-
+[CREDIT CARD LANDING PAGE](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page) <br>
+[HOSTING SITE LANDING PAGE](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)
 
 **Thank you for visiting, and I hope you enjoy exploring these HTML and CSS creations!**
