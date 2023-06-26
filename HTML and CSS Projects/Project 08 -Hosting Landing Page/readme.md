@@ -1,17 +1,10 @@
-## PROJECT 0 :  **HOSTING SITE LANDING PAGE** <br>
-<<<<<<< HEAD
+## PROJECT 08 :  **HOSTING SITE LANDING PAGE** 
 
 ✏️TOOLS USED: HTML & CSS<br>
 📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)<br>
 🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page/index.html)<br>
-=======
->>>>>>> bbd63cfd9e878141f57b78a3ef3c4857d532f8bb
 
-✏️TOOLS USED: HTML & CSS<br>
-📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)<br>
-🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page/index.html)<br><br>
-
-**Welcome** to my second project where I showcase my skills in HTML and CSS.<br>
+**Welcome** to my eighth project where I showcase my skills in HTML and CSS.<br>
 OUTPUTS ACHIEVED :<br><br>
 
 ![IMG1](Images/img1.png)
@@ -29,4 +22,5 @@ OUTPUTS ACHIEVED :<br><br>
 As always, I'm open to feedback and suggestions for improvement. If you have any comments or questions, don't hesitate to reach out. And don't forget to give credit where credit is due - this project was created by Ankita Das.
 
 ![Img02](https://img.shields.io/badge/By-Ankita%20das-brightgreen)
+
 
