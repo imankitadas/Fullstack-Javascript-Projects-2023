@@ -23,7 +23,7 @@
 
 ### THIS IS THE THIRD PROJECT ON HTML AND CSS 
 ### OUTPUT:
-![iMG2](./Project%2003/output.png)<br><br>
+![iMG3](./Project%2003/output.png)<br><br>
 
 
 
@@ -31,20 +31,20 @@
 
 ### THIS IS THE FOURTH PROJECT ON HTML AND CSS 
 ### OUTPUT:
-![iMG2](./Project%2004/output.png)<br><br>
+![iMG4](./Project%2004/output.png)<br><br>
 
 ### PROJECT 05 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2005) <br>
 
 ### THIS IS THE FIFTH PROJECT ON HTML AND CSS 
 ### OUTPUT:
-![iMG2](./Project%2005/output.png)<br><br>
+![iMG5](./project%2005/output.png)<br><br>
 
 
 ### PROJECT 06 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006) <br>
 
 ### THIS IS THE SIXTH PROJECT ON HTML AND CSS 
 ### OUTPUT:
-![iMG2](./Project%2006/output.png)<br><br>
+![iMG6](./Project%2006/Output.png)<br><br>
 
 ### PROJECT 07 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)-CREDIT CARD LANDING PAGE <br>
 
@@ -52,13 +52,6 @@
 
 ### PROJECT 08 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)- HOSTING SITE LANDING PAGE
 
-[PROJECT 01](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2001) <br>
-[PROJECT 02](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2002) <br>
-[PROJECT 03](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2003) <br>
-[PROJECT 04](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2004) <br>
-[PROJECT 05](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2005) <br>
-[PROJECT 06](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006) <br>
-[PROJECT 07-CREDIT CARD LANDING PAGE](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page) <br>
-[PROJECT 08 - HOSTING SITE LANDING PAGE](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)
+### THIS IS THE EIGHTH PROJECT ON HTML AND CSS <BR><BR>
 
 **Thank you for visiting, and I hope you enjoy exploring these HTML and CSS creations!**
