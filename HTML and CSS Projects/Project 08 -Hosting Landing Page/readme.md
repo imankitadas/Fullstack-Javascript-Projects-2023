@@ -19,7 +19,7 @@ OUTPUTS ACHIEVED :<br><br>
 ![IMG8](Images/img8.png)
 ![IMG9](Images/img9.png)
 ![IMG10](Images/img10.png)
-![IMG11](Images/img11.png )
+![IMG11](Images/img11.png)
 
 As always, I'm open to feedback and suggestions for improvement. If you have any comments or questions, don't hesitate to reach out. And don't forget to give credit where credit is due - this project was created by Ankita Das.
 

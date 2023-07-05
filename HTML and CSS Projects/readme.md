@@ -23,7 +23,7 @@
 
 ### THIS IS THE THIRD PROJECT ON HTML AND CSS 
 ### OUTPUT:
-![iMG2](./Project%2003/output.png)<br><br>
+![iMG3](./Project%2003/output.png)<br><br>
 
 
 
@@ -31,20 +31,20 @@
 
 ### THIS IS THE FOURTH PROJECT ON HTML AND CSS 
 ### OUTPUT:
-![iMG2](./Project%2004/output.png)<br><br>
+![iMG4](./Project%2004/output.png)<br><br>
 
 ### PROJECT 05 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2005) <br>
 
 ### THIS IS THE FIFTH PROJECT ON HTML AND CSS 
 ### OUTPUT:
-![iMG2](./Project%2005/output.png)<br><br>
+![iMG5](./project%2005/output.png)<br><br>
 
 
 ### PROJECT 06 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006) <br>
 
 ### THIS IS THE SIXTH PROJECT ON HTML AND CSS 
 ### OUTPUT:
-![iMG2](./Project%2006/output.png)<br><br>
+![iMG6](./Project%2006/Output.png)<br><br>
 
 ### PROJECT 07 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)-CREDIT CARD LANDING PAGE <br>
 
