@@ -2,7 +2,7 @@
 
 
 ✏️TOOLS USED: HTML & CSS<br>
-📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)<br>
+📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2009%20-%20Gaming%20Landing%20Page)<br>
 🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2009%20-%20Gaming%20Landing%20Page/index.html)<br>
 
 **Welcome** to my ninth project where I showcase my skills in HTML and CSS.<br> 
