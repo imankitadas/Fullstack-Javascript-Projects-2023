@@ -1,0 +1,2 @@
+**JAVASCRIPT ASSIGNMENT (Q n A)**
+
