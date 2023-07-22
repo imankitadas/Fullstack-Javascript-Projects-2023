@@ -2,16 +2,20 @@
 
 ### An Introduction to WEB and HTML
 
-[LINK](https://hashnode.com/edit/clhhtmev0000409l12fnv9p56)
+[LINK](https://ankita11.hashnode.dev/an-introduction-to-web-and-html)
 
 ### An Overview of HTML Input Elements
 
-[LINK](https://hashnode.com/edit/clhvvxttz000i09ma9blw9kou)
+[LINK](https://ankita11.hashnode.dev/an-overview-of-html-input-elements)
 
 ### Audio tag and Vedio tag
 
-[LINK](https://hashnode.com/edit/cli8kud2e000009ld39r9f0ru)
+[LINK](https://ankita11.hashnode.dev/transforming-web-media-embrace-the-magic-of-audio-and-video-tags)
 
 ### CSS selectors
 
-[LINK](https://hashnode.com/edit/clia4z12i000i09kx19ev63x4)
+[LINK](https://ankita11.hashnode.dev/mastering-css-selectors)
+
+### Array Methods in Java Script
+
+[LINK](https://ankita11.hashnode.dev/array-methods-in-java-script)
