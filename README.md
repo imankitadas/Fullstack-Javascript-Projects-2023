@@ -32,14 +32,17 @@
 🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2009%20-%20Gaming%20Landing%20Page/index.html)<br>
 
 
+
+### 💹📗 JAVASCRIPT ASSIGNMENT :
+
+1. JAVASCRIPT ASSIGNMENT OF 30 QUESTIONS :📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/01_QnA)
+
+
+
 ### Contact Information✏️
 
 - Email: imankitadas07@gmail.com 📩
 - LinkedIn: [Ankita Das](https://www.linkedin.com/in/ankita-das-02669526a/) 🚀 
 - GitHub: [Imankitadas](https://github.com/imankitadas) 💥 
 - Hashnode: [@CodeWithAnkita](https://hashnode.com/@CodeWithAnkita) ✍️
-
-
-
-
 
