@@ -6,8 +6,10 @@
 
 1. :pencil2:  AN INTRODUCTION TO WEB AND HTML:point_right: [LINK](https://ankita11.hashnode.dev/an-introduction-to-web-and-html)
 2. :pencil2:  HTML Input Elements:point_right: [LINK](https://ankita11.hashnode.dev/an-overview-of-html-input-elements)
-3. :pencil2: AUDIO AND VEDIO TAG:point_right:  [LINK](https://ankita11.hashnode.dev/transforming-web-media-embrace-the-magic-of-audio-and-video-tags)
+3. :pencil2: AUDIO AND VEDIO TAG:point_right:  [LINK](https://ankita11.hashnode.dev transforming-web-media-embrace-the-magic-of-audio-and-video-tags)
 4. :pencil2: CSS SELECTORS:point_right: [LINK](https://ankita11.hashnode.dev/mastering-css-selectors)
+5. :pencil2: ARRAY METHODS IN JAVASCRIPT:point_right: [LINK](https://ankita11.hashnode.dev/array-methods-in-java-script)
+
 
 ## 💻List of Projects:
 
