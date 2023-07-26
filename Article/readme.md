@@ -12,9 +12,13 @@
 
 [LINK](https://ankita11.hashnode.dev/transforming-web-media-embrace-the-magic-of-audio-and-video-tags)
 
-### CSS selectors
+### CSS Selectors
 
 [LINK](https://ankita11.hashnode.dev/mastering-css-selectors)
+
+### CSS Flex Box
+
+[LINK](https://ankita11.hashnode.dev/css-flex-box)
 
 ### Array Methods in Java Script
 
