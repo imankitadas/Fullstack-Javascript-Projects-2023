@@ -5,10 +5,12 @@
 ## 📝List of Articles: 
 
 1. :pencil2:  AN INTRODUCTION TO WEB AND HTML:point_right: [LINK](https://ankita11.hashnode.dev/an-introduction-to-web-and-html)
-2. :pencil2: HTML Input Elements:point_right: [LINK](https://ankita11.hashnode.dev/an-overview-of-html-input-elements)
+2. :pencil2: HTML INPUT ELEMENTS:point_right: [LINK](https://ankita11.hashnode.dev/an-overview-of-html-input-elements)
 3. :pencil2: AUDIO AND VEDIO TAG:point_right:  [LINK](https://ankita11.hashnode.dev/transforming-web-media-embrace-the-magic-of-audio-and-video-tags)
-4. :pencil2: CSS SELECTORS:point_right: [LINK](https://ankita11.hashnode.dev/mastering-css-selectors)
-5. :pencil2: ARRAY METHODS IN JAVASCRIPT:point_right: [LINK](https://ankita11.hashnode.dev/array-methods-in-java-script)
+4. :pencil2: CSS FLEX BOX:point_right: [LINK](https://ankita11.hashnode.dev/css-flex-box)
+5. :pencil2: CSS SELECTORS:point_right: [LINK](https://ankita11.hashnode.dev/mastering-css-selectors)
+6. :pencil2: ARRAY METHODS IN JAVASCRIPT:point_right: [LINK](https://ankita11.hashnode.dev/array-methods-in-java-script)
+ 
 
 
 ## 💻List of Projects:
@@ -35,7 +37,7 @@
 
 ### 💹📗 JAVASCRIPT ASSIGNMENT :
 
-1. JAVASCRIPT ASSIGNMENT OF 30 QUESTIONS :📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/01_QnA)
+1. JAVASCRIPT ASSIGNMENT OF 30 QUESTIONS : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/01_QnA)
 
 
 
