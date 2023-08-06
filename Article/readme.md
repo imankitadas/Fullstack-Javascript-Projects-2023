@@ -14,7 +14,7 @@
 
 ### CSS Flex Box
 
-[LINK](https://ankita11.hashnode.dev/css-flex-box)
+[LINK](https://ankita11.hashnode.dev/css-flex-box-1)
 
 ### CSS Selectors
 
