@@ -219,7 +219,6 @@ nav{
     text-align: center;
     font:1.5em "Fira Sans", sans-serif ;
     margin-top:20px ;
-
 }
 
 .diff-column p{ 
@@ -257,12 +256,15 @@ nav{
     transform: scale(1.09);
     transition:0.5s ease-out;
     border:1px solid #ffffff;
+    cursor:pointer;
 } 
+
 .diff-column:hover{ 
     background-color:#f637edbd ;
     transform: scale(1.09);
     transition:0.5s ease-out;
     border:1px solid #ffffff;
+    cursor:pointer;
 }
 
 /* Card choices */
@@ -273,23 +275,27 @@ nav{
     text-align: center;
     background-color:#fceffb ;
 }
+
 .card-choices h1{ 
     padding-top:90px;
     font:4.6em "Fira Sans", sans-serif ;
     color:#000000fe;
     line-height:1.3em ;
 }
+
 .card-choices span{ 
     font:1em "Fira Sans", sans-serif ;
     color:#ed37f6 ;
     font-weight:600 ;
 }
+
 .card-choices p{
     padding-top:70px ;
     font:1.3em "Fira Sans", sans-serif;
     color:#000000a0;
     line-height:1.4em ;
 }
+
 .vcard img{ 
     position: relative;
     top:-30px;
@@ -311,6 +317,7 @@ nav{
     line-height:1.3em;
 
 }
+
 .feedback .upper-para{ 
     padding-top:60px;
     color:#ffffffa9;
@@ -318,6 +325,7 @@ nav{
     line-height:1.5em;
     padding-bottom:8%;
 }
+
 .feedback span{ 
     color: #F637EC;
     font-weight:500;
@@ -338,6 +346,10 @@ nav{
    border-bottom:0;
 }
 
+.rating-one:hover{ 
+    cursor: pointer;
+}
+
 .rating-two{ 
     background-color:#3b444b8a ;
     padding:25px 70px ;
@@ -345,6 +357,10 @@ nav{
     margin-bottom:5%;
     border:1px solid white ;
     border-bottom:0;
+}
+
+.rating-two:hover{ 
+    cursor: pointer;
 }
 
 .rating-col{ 
@@ -356,6 +372,9 @@ nav{
    border-bottom:0;
 }
 
+.rating-col:hover{ 
+    cursor: pointer;
+}
 
 .second-row{ 
     display: flex;

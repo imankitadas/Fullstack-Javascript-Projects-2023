@@ -3,7 +3,7 @@
 
 ✏️TOOLS USED: HTML & CSS<br>
 📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)<br>
-🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page/index.html)<br>
+🌐[LIVE LINK](https://64e9acfb5e38211445e87f40--fabulous-narwhal-574fd6.netlify.app/)<br>
 
 **Welcome** to my eighth project where I showcase my skills in HTML and CSS.<br>
 

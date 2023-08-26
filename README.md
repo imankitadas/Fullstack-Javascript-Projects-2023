@@ -25,13 +25,16 @@
 `PROJECT 05`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2005) <br>
 `PROJECT 06`📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2006)<br><br>
 `PROJECT 07` CREDIT CARD AND LANDING PAGE📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)<br>
-🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page/index.html)<br>
+🌐[LIVE LINK](https://64e9a8e2067a02144a26a701--statuesque-lily-eb2ec4.netlify.app/)<br>
 
 `PROJECT 08` HOSTING SITE LANDING PAGE📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page)<br>
-🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2008%20-Hosting%20Landing%20Page/index.html)<br>
+🌐[LIVE LINK](https://64e9acfb5e38211445e87f40--fabulous-narwhal-574fd6.netlify.app/)<br>
 
 `PROJECT 09` GAMING LANDING PAGE📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2009%20-%20Gaming%20Landing%20Page)<br>
-🌐[LIVE LINK](http://127.0.0.1:5500/HTML%20and%20CSS%20Projects/Project%2009%20-%20Gaming%20Landing%20Page/index.html)<br>
+🌐[LIVE LINK](https://64e9b2e8fb981f187dacea8d--extraordinary-horse-66dd9c.netlify.app/)<br>
+
+`PROJECT 10` REAL ESTATE PAGE📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2010%20-%20Real%20Estate%20Page)<br>
+🌐[LIVE LINK](https://64e9bbb40ade101d2935e421--sparkling-travesseiro-ad2b8d.netlify.app/)<br>
 
 
 
