@@ -7,4 +7,5 @@ function intro(){
     let country='India';
     let age='22';
     console.log(`My name is : ${firstname} ${lastname} My Martial Status is : ${martialstatus} My country is : ${country} My age is : ${age}`);
-}intro();
+}
+intro();

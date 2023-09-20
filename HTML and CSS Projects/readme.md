@@ -54,8 +54,13 @@
 
 ### THIS IS THE EIGHTH PROJECT ON HTML AND CSS <BR><BR>
 
-### PROJECT 09 : 📁[FOLDER LINK]()- GAMING LANDING PAGE
+### PROJECT 09 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2009%20-%20Gaming%20Landing%20Page)- GAMING LANDING PAGE
+
 ### THIS IS THE NINTH PROJECT ON HTML AND CSS <BR><BR>
+
+### PROJECT 10 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2010%20-%20Real%20Estate%20Page)- REAL ESTATE PAGE
+
+### THIS IS THE TENTH PROJECT ON HTML AND CSS <BR><BR>
 
 
 **Thank you for visiting, and I hope you enjoy exploring these HTML and CSS creations!**

@@ -3,7 +3,7 @@
 
 ✏️TOOLS USED: HTML & CSS<br>
 📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2010%20-%20Real%20Estate%20Page)<br>
-🌐[LIVE LINK](http://127.0.0.1:5501/HTML%20and%20CSS%20Projects/Project%2010%20-%20Real%20Estate%20Page/index.html)<br>
+🌐[LIVE LINK](https://64e9bbb40ade101d2935e421--sparkling-travesseiro-ad2b8d.netlify.app/)<br>
 
 **Welcome** to my Tenth project where I showcase my skills in HTML and CSS.<br> 
 
