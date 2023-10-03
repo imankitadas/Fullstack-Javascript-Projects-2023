@@ -23,7 +23,3 @@ function identifyGrade(score){
  }
  
  identifyGrade(55);
-
-
-
- 
