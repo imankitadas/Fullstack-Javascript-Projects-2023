@@ -1,14 +1,23 @@
 // 17. Write a program which tells the number of days in a month.
 
-function count(month){
-    if(month == "January" || month == "March" || month == "May" || month == "July" || month == "August" || month == "October" || month == "December"){
-        console.log(`Number of days in a Month is ${month} 31`);
-    }else if(month == "April" || month == "June" || month == "September" || month == "November"){
-        console.log(`Number of days in a Month is ${month} 30`);
-    }else{
-        console.log(`Number of days in a Month is ${month} 28`);
-    }
-      
- }
 
-count("February");
+function findDays(month){     
+  let months={
+     January: 31,
+        February: 28,           
+        March: 31,
+        April: 30,
+        May: 31,
+        June: 30,
+        July: 31,
+        August: 31,
+        September: 30,
+        October: 31,
+        November: 30,
+        December: 31
+  }
+  let days=months[month] || "invalid month"
+  console.log(`Number of days in a Month is ${days}  days`)
+}
+
+findDays('september');
