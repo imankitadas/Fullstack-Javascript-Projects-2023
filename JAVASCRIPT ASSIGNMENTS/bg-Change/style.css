@@ -1,0 +1,33 @@
+*{ 
+    margin:0%;
+    padding:0%;
+}
+
+body{ 
+   height:100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#btn{ 
+padding:15px 42px;
+border:none;
+border-radius:18px;  
+font-size:25px;  
+background:linear-gradient(45deg, #ffff00d6 , #ffc0cbeb , #d87093d2);
+color:#ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
