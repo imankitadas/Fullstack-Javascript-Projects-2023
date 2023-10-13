@@ -42,6 +42,8 @@
 `PROJECT 12` DATA ANALYTICS LANDING PAGE📁 [FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2012%20-%20Data%20Analytics%20Landing%20Page)<br>
 🌐[LIVE LINK](https://65283748bebbcf5ba6470a9d--incandescent-rabanadas-187401.netlify.app/)<br>
 
+
+
 ### 💹📗 JAVASCRIPT ASSIGNMENT :
 
 1. JAVASCRIPT ASSIGNMENT OF 30 QUESTIONS : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/01_QnA)
