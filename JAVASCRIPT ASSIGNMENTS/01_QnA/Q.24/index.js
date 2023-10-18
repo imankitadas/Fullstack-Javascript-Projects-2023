@@ -15,4 +15,3 @@ function evenOdd(){
     return {even,odd}
   }
   console.log(evenOdd());
-  
