@@ -12,7 +12,7 @@
 
 [LINK](https://ankita11.hashnode.dev/transforming-web-media-embrace-the-magic-of-audio-and-video-tags)
 
-### CSS Positions
+### CSS Positioning
 
 [LINK](https://ankita11.hashnode.dev/css-positioning)
 
