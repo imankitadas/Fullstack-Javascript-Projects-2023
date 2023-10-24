@@ -57,7 +57,7 @@
 1. JAVASCRIPT ASSIGNMENT OF 30 QUESTIONS : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/01_QnA)
 
 2. CALCULATOR APP :<br> 
-📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/_Calculator)<br>
+📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/03_Calculator)<br>
 🌐[LIVE LINK](https://6537914137a6190e11073419--willowy-vacherin-19de92.netlify.app/)<br>
 
 ### Output : 
