@@ -9,6 +9,13 @@
 
 OUTPUTS ACHIEVED :<br><br>
 
+![IMG1](./photos/Image1.png)
+![IMG2](./photos/Image2.png)
+![IMG3](./photos/Image3.png)
+![IMG4](./photos/Image4.png) 
+![IMG5](./photos/Image5.png)
+![IMG6](./photos/Image6.png)
+![IMG6](./photos/Image7.png)
 
 
 

@@ -11,13 +11,17 @@ arr.forEach(btn => {
             input.value = string;
         }
         else if(e.target.innerHTML === 'AC'){ 
-            string =" ";
+            string = "";
             input.value = string;
         }
         else if(e.target.innerHTML === 'DEL'){
             string = string.substring(0, string.length-1);
             input.value = string;     
         }
+        else if(e.target.innerHTML === "x") {  // Replace "x" with the "*" operator for multiplication
+            string += "*";
+            input.value = string; 
+        }     
         else{ 
             string += e.target.innerHTML;
             input.value = string; 
@@ -25,3 +29,5 @@ arr.forEach(btn => {
     })
 
 })
+
+

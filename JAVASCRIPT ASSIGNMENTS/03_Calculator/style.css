@@ -20,35 +20,34 @@ body{
 }
 
 h1{
-    margin-bottom:10px; 
+    margin-bottom:25px; 
     text-align: center;
     font:2.2em 'Macondo', cursive;
     font-weight: 600;
 }
 
 .calculator{ 
-    border:none;
-    padding:12px;
-    box-shadow:0px 3px 12px 4px #0000004d;
-    border-radius:18px;
+    padding:10px 0px 25px 15px;
+    box-shadow:0px 10px 30px 10px #0000004d;
+    border-radius:40px;
     background:linear-gradient(180deg, #F8B195, #F67280 , #C06C84, #6C5B7B, #355C7D);
 }
 
 input{ 
     background-color:transparent;
-    width:320px;
-    padding:14px;
+    width:292px;
+    padding:32px;
     border: none;
-    font-size:40px;
+    font-size:42px;
     text-align: right;
     color: #ffffff;
-    margin-bottom:20px;
+    margin-top:15px;
     cursor: pointer;
     pointer-events: none; 
 }
 
 input::placeholder{ 
-    color: #ffffff;
+    color: #ffffffe9;
 }
 
 .btn{  
@@ -58,9 +57,10 @@ input::placeholder{
    cursor: pointer;
    color:#ffffffe5;
    background-color:transparent;
+   border:1px solid #ffffffb2;
    border-radius:50%;
    align-items: center;
-   margin:10px;
+   margin:4px;
    font-size:20px;
 }
 
@@ -69,9 +69,22 @@ input::placeholder{
 }
 
 .bg:hover{ 
-    background-color:#eb7c87;
+    background-color:#e6abaf;
     transform:scale(1);
     transition: 0.3s;
+}
+
+.ftsize{ 
+    font-size:17px;
+    font-weight: 300;
+}
+
+.ftsize:nth-child(2):hover{ 
+    background-color:#e85763;
+}
+
+.ftsize2{ 
+    font-size:26px;
 }
 
 .diff{ 
@@ -83,12 +96,9 @@ input::placeholder{
 }
 
 .imp{ 
-    width:140px;
+    width:129px;
     height:58px;
-    border-radius:22px;
+    font-size:25px;
+    border-radius:50px;
 }
-
-
-
-
 
