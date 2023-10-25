@@ -58,10 +58,10 @@
 
 2. CALCULATOR APP :<br> 
 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/03_Calculator)<br>
-🌐[LIVE LINK](https://6537914137a6190e11073419--willowy-vacherin-19de92.netlify.app/)<br>
+🌐[LIVE LINK](https://653911f6b3cadb13eb49cac5--zingy-malasada-217310.netlify.app/)<br>
 
 ### Output : 
-![Image](https://github.com/snehalgadge/Full-Stack-JavaScript-Projects-2022-/assets/131391850/c0959b1e-6b06-4222-8546-7f159afff6e0)
+![Image](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/80f58cb8-fd4a-4480-a446-585514b1aa83)
 
 
 ### Contact Information✏️
@@ -70,4 +70,3 @@
 - LinkedIn: [Ankita Das](https://www.linkedin.com/in/ankita-das-02669526a/) 🚀 
 - GitHub: [Imankitadas](https://github.com/imankitadas) 💥 
 - Hashnode: [@CodeWithAnkita](https://hashnode.com/@CodeWithAnkita) ✍️
-
