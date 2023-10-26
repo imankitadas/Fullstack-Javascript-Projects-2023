@@ -1,8 +1,8 @@
 ## Calculator
 
-[Folder Link](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/03_Calculator)<br><br>
+[Folder Link](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/JAVASCRIPT%20ASSIGNMENTS/03_Calculator)<br>
 
-[Live Link](https://653911f6b3cadb13eb49cac5--zingy-malasada-217310.netlify.app/)<br><br>
+[Live Link](https://653911f6b3cadb13eb49cac5--zingy-malasada-217310.netlify.app/)<br>
 
 
 ### Output :
