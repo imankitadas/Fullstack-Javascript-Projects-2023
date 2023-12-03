@@ -35,7 +35,7 @@ input_box.placeholder = "Search My Project";
 //<--------------- TASK 3 ---------------->
 
 
-// i) Changing the paragraph text or hero-left-section 
+// i) Changing the paragraph text or hero-left-section- 
 
 let heroleft = document.querySelectorAll(".hero-left-section p span");
 
@@ -43,7 +43,7 @@ heroleft[1].innerText = "an Employee";
 heroleft[2].innerText = "iNeuron Intelligence Pvt Ltd.";
 
 
-// ii) Display footer social icon 
+// ii) Display footer social icon-
 
 let footer_icons = document.querySelector("footer ul");
 footer_icons.style.visibility = "visible";
@@ -53,7 +53,7 @@ footer_icons.style.visibility = "visible";
 // <--------------- TASK 4 ---------------->
 
 
-// i) Change hero avtar image to Hitesh Sir's image
+// i) Change hero avtar image to Hitesh Sir's image-
 
 let newimg = document.querySelector("img");
 newimg.src = "./hiteshsir.jpg";
@@ -63,7 +63,7 @@ newimg.src = "./hiteshsir.jpg";
 // <--------------- TASK 5 ---------------->
 
 
-// i) Adding a Support Me button
+// i) Adding a Support Me button-
 
 let heroBtn = document.querySelector(".hero-right-section-btns");
 let newBtn = document.createElement("button");

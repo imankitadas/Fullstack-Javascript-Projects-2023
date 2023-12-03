@@ -63,6 +63,8 @@
 ### Output : 
 ![Image](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/80f58cb8-fd4a-4480-a446-585514b1aa83)
 
+3. DOM ASSIGNMENTS OF 9 QUESTIONS : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/03_JAVASCRIPT%20ASSIGNMENTS/04_DOM%20Assignments/01_DOM%20Assignment%202.0%201%2C2%2C3)
+
 
 ### Contact Information✏️
 

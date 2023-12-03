@@ -73,4 +73,3 @@ lastaccordian.forEach((element) => {
     }
    });
 });
-
