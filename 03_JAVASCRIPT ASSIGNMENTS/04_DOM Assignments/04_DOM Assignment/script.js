@@ -1,4 +1,4 @@
-//  DOM Assignment 4--
+//  DOM Assignment 4
 
 // <----------------TASK 1---------------->
 
@@ -10,7 +10,7 @@ document.querySelector(".clash-card__level--archer").nextElementSibling.innerHTM
 document.querySelector(".clash-card__level--goblin").nextElementSibling.innerHTML = "The Goblin";
 
 
-// ii) Change background color at the bottom of the cards.
+// iii) Change background color at the bottom of the cards.
  
 document.querySelector(".clash-card__unit-stats--barbarian").style.backgroundColor = "#eb9a3d";
 
