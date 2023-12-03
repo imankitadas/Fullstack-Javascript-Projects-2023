@@ -16,6 +16,10 @@ let list_item =  document.querySelector("header nav ul")
 list_item.appendChild(li);
 
 
+// iii) Removing social media icons
+
+let footer = document.querySelector("footer ul");
+footer.style.visibility = "hidden";
 
 //<----------------- TASK 2 ---------------->
 
@@ -25,12 +29,6 @@ list_item.appendChild(li);
 let search_field = document.querySelector(".search-field");
 let input_box = search_field.querySelector("input");
 input_box.placeholder = "Search My Project";
-
-
-// ii) Removing social media icons
-
-let footer = document.querySelector("footer ul");
-footer.style.visibility = "hidden";
 
 
 
