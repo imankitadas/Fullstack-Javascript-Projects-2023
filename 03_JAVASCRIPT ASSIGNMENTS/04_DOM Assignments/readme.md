@@ -86,3 +86,85 @@ let heroBtn = document.querySelector(".hero-right-section-btns");<br>
 let newBtn = document.createElement("button");<br>
 newBtn.innerHTML = "Support Me";<br>
 heroBtn.appendChild(newBtn);<br>
+
+
+
+# DOM Assignment 2
+
+**TASK 1**
+## Change "contact" navigation menu to "Projects" and  Change all h3 background color .
+
+![Screenshot 2023-12-04 214012](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/d78866ae-c7b1-4421-ab83-a25f5f149bbd)
+
+
+**SOLUTION**
+
+## Change "contact" navigation menu to "Projects"-
+
+let nav = document.querySelector("header nav ul");<br>
+nav.lastElementChild.innerHTML = "Projects";<br>
+
+
+## Change all h3 background color-
+
+Array.from(accordian).forEach((element) => { 
+    element.style.backgroundColor = "#DADAF8";
+});<br>
+
+
+**TASK 2**
+## Add h3 with new name "Skills" and also add new paragraph and Add click function on new h3 -
+
+![Screenshot 2023-12-04 215323](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/63020230-e8cc-4128-8c9d-1864f9d18a5f)
+
+
+**SOLUTION**
+
+## Add new h3 "Skills"-
+
+let newh3 = document.createElement("h3");<br>
+newh3.innerHTML = "Skills";<br>
+newdiv.appendChild(newh3);<br>
+
+ ## Add new paragraph-
+
+let p = document.createElement("p");<br>
+p.innerHTML = "I posses a very good command over the Full Stack Development technologies like MERN which can be seen in my work over the Github.";<br>
+newdiv.appendChild(p);<br>
+
+## Add click function on new h3 -
+
+lastaccordian.forEach((element) => { 
+   element.addEventListener("click", ()=>{ 
+     let para = element.nextElementSibling;
+    if(para.style.display === "block"){
+      para.style.display = "none";
+    } else {
+      para.style.display = "block";
+    }
+   });
+});
+
+
+
+# DOM Assignment 3
+
+**TASK 1**
+## Change placeholder in every Output Board and  Input Board-
+
+![Screenshot 2023-12-04 223849](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/bd2d2477-a290-438d-adec-4d2e78957b58)
+
+
+**SOLUTION**
+
+## Changing the User Output Placeholder-
+
+document.querySelector(".enterName").placeholder = "FSJS2.0";<br>
+document.querySelector(".enterMail").placeholder = "fsjs@ineuron.ai";<br>
+document.querySelector(".enterMessage").placeholder = "Hello World";<br>
+
+## Changing the User Input Placeholder-
+
+document.querySelector(".userName").placeholder = "FSJS2.0";<br>
+document.querySelector(".userEmail").placeholder = "fsjs@ineuron.ai";<br>
+document.querySelector(".userMessage").placeholder = "Hello World";<br>
