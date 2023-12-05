@@ -113,7 +113,7 @@ Array.from(accordian).forEach((element) => {
 
 
 **TASK 2**
-## Add h3 with new name "Skills" and also add new paragraph and Add click function on new h3 -
+## Add h3 with new name "Skills" and also add new paragraph and Add click function on new h3 .
 
 ![Screenshot 2023-12-04 215323](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/63020230-e8cc-4128-8c9d-1864f9d18a5f)
 
@@ -150,7 +150,7 @@ lastaccordian.forEach((element) => {
 # DOM Assignment 3
 
 **TASK 1**
-## Change placeholder in every Output Board and  Input Board-
+## Change placeholder in every Output Board and  Input Board .
 
 ![Screenshot 2023-12-04 223849](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/bd2d2477-a290-438d-adec-4d2e78957b58)
 
@@ -168,3 +168,85 @@ document.querySelector(".enterMessage").placeholder = "Hello World";<br>
 document.querySelector(".userName").placeholder = "FSJS2.0";<br>
 document.querySelector(".userEmail").placeholder = "fsjs@ineuron.ai";<br>
 document.querySelector(".userMessage").placeholder = "Hello World";<br>
+
+
+
+# DOM Assignment 4
+
+**TASK 1**
+## Change background color and text color at the bottom of the cards and change character names .
+
+![DOM P1 SS](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/39f98b26-423b-45aa-b37e-26e2171949b1)
+
+
+**SOLUTION**
+
+## Change The Character Names -
+
+document.querySelector(".clash-card__level--archer").nextElementSibling.innerHTML = "The Archer";<br>
+
+document.querySelector(".clash-card__level--goblin").nextElementSibling.innerHTML = "The Goblin";<br>
+
+## Change background color at the bottom of the cards -
+ 
+document.querySelector(".clash-card__unit-stats--barbarian").style.backgroundColor = "#eb9a3d";<br>
+
+document.querySelector(".clash-card__unit-stats--archer").style.backgroundColor = "#ed5486";<br>
+
+document.querySelector(".clash-card__unit-stats--giant").style.backgroundColor = "#f58f1f";<br>
+
+document.querySelector(".clash-card__unit-stats--goblin").style.backgroundColor = "#80ba35";<br>
+
+document.querySelector(".clash-card__unit-stats--wizard").style.backgroundColor = "#50acfd";<br>
+
+## Change text color at the bottom of the cards -
+
+document.querySelectorAll(".stat").forEach((e) => {e.style.color ="#fff"});<br>
+
+document.querySelectorAll(".stat-value").forEach((e) => {e.style.color ="#fff"});<br>
+
+
+
+# DOM Assignment 5
+
+**TASK 1**
+## Add "Pro Subscription" button in navbar then add new recipe "Chinese (7)" in recipe list then change h5 and p tags color and add 6th card.
+
+![DOM P2 SS](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/097af757-e0b5-4d06-839b-c6f85c870854)
+
+
+**SOLUTION**
+
+## Add "Pro Subscription" button -
+
+let addbtn = document.createElement("a");<br>
+addbtn.classList.add("btn");<br>
+addbtn.innerHTML ="Pro Subscription";<br>
+document.querySelector(".btn").parentElement.appendChild(addbtn);<br>
+
+## Adding new recipe "Chinese (7)"-
+
+let addRecipe = document.createElement("a");<br>
+addRecipe.href = "#";<br>
+addRecipe.innerHTML = "Chinese(7)" ;<br>
+document.querySelector(".recipes-container .tags-container div").appendChild(addRecipe);<br>
+
+## Change h5 and p tags color-
+
+document.querySelectorAll(".recipe-name").forEach((e) => {e.style.color = "#8A2BE2" });<br>
+
+
+document.querySelectorAll(".recipe-disp").forEach((e) => {e.style.color = "#8A2BE2" });<br>
+
+
+## Adding 6th card-
+
+let newCard = document.createElement("div");<br>
+newCard.classList.add("card");<br>
+document.querySelector(".recipe-gallery").appendChild( newCard);<br>
+
+
+let heading = document.createElement("h5");<br>
+heading.innerHTML = "add 6th card here" ;<br>
+heading.style.fontSize = "18px";<br>
+newCard.appendChild(heading);<br>

@@ -3,14 +3,14 @@
 // <----------------TASK 1---------------->
 
 
-// i) Change The Text .
+// i) Change The Character Names -
 
 document.querySelector(".clash-card__level--archer").nextElementSibling.innerHTML = "The Archer";
 
 document.querySelector(".clash-card__level--goblin").nextElementSibling.innerHTML = "The Goblin";
 
 
-// iii) Change background color at the bottom of the cards.
+// ii) Change background color at the bottom of the cards -
  
 document.querySelector(".clash-card__unit-stats--barbarian").style.backgroundColor = "#eb9a3d";
 
@@ -23,7 +23,7 @@ document.querySelector(".clash-card__unit-stats--goblin").style.backgroundColor 
 document.querySelector(".clash-card__unit-stats--wizard").style.backgroundColor = "#50acfd";
 
 
-// iii) Change text color at the bottom of the cards.
+// iii) Change text color at the bottom of the cards -
 
 document.querySelectorAll(".stat").forEach((e) => {e.style.color ="#fff"});
 
