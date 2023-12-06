@@ -250,3 +250,38 @@ let heading = document.createElement("h5");<br>
 heading.innerHTML = "add 6th card here" ;<br>
 heading.style.fontSize = "18px";<br>
 newCard.appendChild(heading);<br>
+
+
+
+# DOM Assignment 6
+
+
+## Add Ineuron logo then change price to $10/month and add "linkedin" font awesome icon at end of the footer - 
+
+
+**TASK 1**
+## Add "Ineuron" logo -
+
+![DOM P3 SS-1](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/c04293f5-7e1c-429f-bccf-1570de0e1c6b)
+
+**SOLUTION**
+
+document.querySelector(".logo").src = "./assets/ineuron-logo.png";<br>
+
+**TASK 2**
+
+![DOM P3 SS-2](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/3fbfaa33-9be5-449e-a61d-f172c423f6db)
+## Change price to $10/month -
+
+**SOLUTION**
+
+document.querySelector(".app_price > span").innerHTML = "$10" ;<br>
+
+## Add "linkedin" font awesome icon at end of the footer -
+
+**SOLUTION**
+
+let newIcon = document.querySelector(".footer_social");<br>
+let div = document.createElement("div");<br>
+div.innerHTML = '<i class="fa-brands fa-linkedin"></i>';<br>
+newIcon.appendChild(div);<br>
