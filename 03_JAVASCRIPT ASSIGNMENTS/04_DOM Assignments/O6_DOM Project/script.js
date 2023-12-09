@@ -22,25 +22,3 @@ let newIcon = document.querySelector(".footer_social");
 let div = document.createElement("div");
 div.innerHTML = '<i class="fa-brands fa-linkedin"></i>';
 newIcon.appendChild(div);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

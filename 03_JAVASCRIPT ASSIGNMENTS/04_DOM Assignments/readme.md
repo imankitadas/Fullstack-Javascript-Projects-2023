@@ -255,7 +255,6 @@ newCard.appendChild(heading);<br>
 
 # DOM Assignment 6
 
-
 ## Add Ineuron logo then change price to $10/month and add "linkedin" font awesome icon at end of the footer - 
 
 
@@ -271,6 +270,7 @@ document.querySelector(".logo").src = "./assets/ineuron-logo.png";<br>
 **TASK 2**
 
 ![DOM P3 SS-2](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/3fbfaa33-9be5-449e-a61d-f172c423f6db)
+
 ## Change price to $10/month -
 
 **SOLUTION**
@@ -285,3 +285,61 @@ let newIcon = document.querySelector(".footer_social");<br>
 let div = document.createElement("div");<br>
 div.innerHTML = '<i class="fa-brands fa-linkedin"></i>';<br>
 newIcon.appendChild(div);<br>
+
+
+
+# DOM Assignment 7
+
+Remove the languages that have 2.0 in their name Use Javscript to write something in the input box and submit the form. This should refresh the page and languages in the left card should come back.-
+
+
+**TASK 1**
+Remove the languages that have 2.0 in their name-
+
+![ass7 1-after](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/90479759-d2f6-4dc2-ad76-80e1c69ae41b)
+
+**SOLUTION**
+
+let removeCourse =  document.querySelectorAll(".main__languages a");<br>
+for(let i = 0; i < removeCourse.length; i++){ 
+    if(removeCourse[i].innerHTML.includes("2.0")){ 
+        removeCourse[i].style.display = "none";
+    }
+};<br>
+
+
+**TASK 2**
+Use Javscript to write something in the input box and submit the form. This should refresh the page and languages in the left card should come back-
+
+![ass7 2-after](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/eac6c8af-5898-473d-a586-b71d0008ee90)
+
+**SOLUTION**
+
+let inputTxt = document.querySelector(".main__form-input");<br>
+inputTxt.disabled = false;<br>
+let submitBtn = document.querySelector(".main__form-btn");<br>
+submitBtn.disabled = false;<br>
+
+submitBtn.addEventListener("click", (refresh) => {
+
+    for(let j=0; j< removeCourse.length; j++) {
+        if(removeCourse[j].innerHTML.includes("2.0")){
+            removeCourse[j].style.display = "inline" ;
+        }
+    }
+});<br>
+
+
+
+# DOM Assignment 8
+
+
+
+
+
+
+
+
+
+
+
