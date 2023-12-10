@@ -1,6 +1,6 @@
 ### PROJECT 04: HTML/CSS WEBSITE
 
-[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2004)
+[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/02_HTML%20and%20CSS%20Projects/Project%2004)
 
 #### TOOLS USED: HTML & CSS
 

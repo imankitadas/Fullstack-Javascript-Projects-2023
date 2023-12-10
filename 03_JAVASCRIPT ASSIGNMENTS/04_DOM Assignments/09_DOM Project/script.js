@@ -21,6 +21,12 @@ function changecolor(){
     btnbgclr.style.backgroundColor = "#dc143c" ;
 }
 
+
+// <----------------TASK 3---------------->
+
+
+//i) Change button color when mouse Out -
+
 btnbgclr.addEventListener("mouseout", changecolortwo);
 
 function changecolortwo(){ 

@@ -408,6 +408,8 @@ bgcolor.style.background ="#fff";<br>
 
 ![ass8 3-after](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/3bf7697a-ed67-41b9-874c-c89e17d9fd0d)
 
+**SOLUTION**
+
 navbar.style.visibility = "visible"; <br>
 let togglemenu = document.querySelector(".navbar-toggler");
 
@@ -417,3 +419,46 @@ togglemenu.addEventListener("click", function(){
 
 
 # DOM Assignment 9
+
+Change h1 color and change button color when mouse hover -
+
+
+
+**TASK 1**
+
+## Change h1 color -
+
+![ass9 1-after](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/6e7fa073-9641-43ed-9e16-6f3c02399aac)
+
+**SOLUTION**
+
+let headingclr = document.querySelector(".caption .title");<br>
+headingclr.style.color= "#dc143c";<br>
+
+
+**TASK 2**
+
+## Change button color when mouse hover-
+
+![ass9 2-after](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/00521ec7-8dc9-4793-bab8-90a73c95ebda)
+
+**SOLUTION**
+
+let btnbgclr = document.querySelector(".add-to-cart");<br>
+btnbgclr.addEventListener("mouseover" , changecolor);<br>
+
+function changecolor(){ 
+    btnbgclr.style.backgroundColor = "#dc143c" ;
+}
+
+## Change button color when mouse Out-
+
+![ass9 2-before](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/c5113fa5-ba81-4b81-9244-13de585e7d57)
+
+**SOLUTION**
+
+btnbgclr.addEventListener("mouseout", changecolortwo);<br>
+
+function changecolortwo(){ 
+    btnbgclr.style.backgroundColor = "#114232" ;
+}

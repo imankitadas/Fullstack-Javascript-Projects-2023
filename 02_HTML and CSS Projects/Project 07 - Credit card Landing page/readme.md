@@ -1,7 +1,7 @@
 ## PROJECT 07:  **CREDIT CARD LANDING PAGE** <br>
 
 ✏️TOOLS USED: HTML & CSS<br>
-📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)<br>
+📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/02_HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)<br>
 🌐[LIVE LINK](https://64e9a8e2067a02144a26a701--statuesque-lily-eb2ec4.netlify.app/)<br>
 
 

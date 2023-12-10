@@ -2,7 +2,7 @@
 
 
 ✏️TOOLS USED: HTML & CSS<br>
-📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/HTML%20and%20CSS%20Projects/Project%2012%20-%20Data%20Analytics%20Landing%20Page)<br>
+📂[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/02_HTML%20and%20CSS%20Projects/Project%2012%20-%20Data%20Analytics%20Landing%20Page)<br>
 🌐[LIVE LINK](https://65283748bebbcf5ba6470a9d--incandescent-rabanadas-187401.netlify.app/)<br>
 
 **Welcome** to my Twelvth project where I showcase my skills in HTML and CSS.<br> 
