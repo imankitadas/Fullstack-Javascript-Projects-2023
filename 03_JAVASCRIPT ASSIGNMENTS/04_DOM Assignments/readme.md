@@ -333,13 +333,87 @@ submitBtn.addEventListener("click", (refresh) => {
 
 # DOM Assignment 8
 
+Remove navbar add horizontal line and p tag then add red color border to the div and add vertical scrollbar then add background color to white and add responsive navbar toggle button .
 
 
+**TASK 1**
+Remove navbar and add horizontal line and h3 tag then add red color border to the div and add vertical scrollbar -
+
+<img width="770" alt="ass8 1-after" src="https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/f7624ef5-cb6b-4cb0-af95-a64a39f6019f">
 
 
+## Remove navbar -
+
+**SOLUTION**
+
+let navbar = document.querySelector(".navbar");<br>
+navbar.style.visibility = "hidden" ;<br>
+
+document.querySelector(".navbar-brand").innerHTML = "";<br>
+document.querySelector(".navbar-nav").innerHTML = "";<br>
 
 
+## Add red color border to the div -
+
+**SOLUTION**
+
+let addClr = document.querySelector(".col-lg-4");<br>
+addClr.style.border = "5px solid red";<br>
 
 
+## Add vertical scrollbar -
+
+**SOLUTION**
+
+let aside = document.querySelector("aside");<br>
+let scrollbar = document.querySelector(".new");<br>
+scrollbar.style.overflowY = "scroll";<br>
 
 
+## Add horizontal Line -
+
+**SOLUTION**
+
+var hrElement = document.createElement("hr");<br>
+hrElement.style.color = "#ffffff";<br>
+aside.appendChild(hrElement);<br>
+
+
+## Adding h2 -
+
+**SOLUTION**
+
+let heading = document.createElement("h2");<br>
+heading.classList.add("new-head");<br>
+heading.innerHTML = "This is my custom heading";<br>
+heading.style.color ="#fff";<br>
+aside.appendChild(heading);<br>
+
+
+**TASK 2**
+
+## Add background color to white -
+
+![ass8 2-after](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/430af3ff-2379-4bdd-8c63-c3fd2496dcdd)
+
+**SOLUTION**
+
+let bgcolor = document.querySelector("body");<br>
+bgcolor.style.background ="#fff";<br>
+
+
+**TASK 3**
+
+## Add responsive navbar toggle button -
+
+![ass8 3-after](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/assets/131391850/3bf7697a-ed67-41b9-874c-c89e17d9fd0d)
+
+navbar.style.visibility = "visible"; <br>
+let togglemenu = document.querySelector(".navbar-toggler");
+
+togglemenu.addEventListener("click", function(){
+    document.querySelector("#navbarTogglerDemo01").classList.toggle("collapse");
+});
+
+
+# DOM Assignment 9
