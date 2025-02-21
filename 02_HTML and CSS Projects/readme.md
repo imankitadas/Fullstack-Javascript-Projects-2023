@@ -46,7 +46,7 @@
 ### OUTPUT:
 ![iMG6](./Project%2006/Output.png)<br><br>
 
-### PROJECT 07 : 📁[FOLDER LINK]https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/02_HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)-CREDIT CARD LANDING PAGE <br>
+### PROJECT 07 : 📁[FOLDER LINK](https://github.com/imankitadas/Fullstack-Javascript-Projects-2023/tree/main/02_HTML%20and%20CSS%20Projects/Project%2007%20-%20Credit%20card%20Landing%20page)-CREDIT CARD LANDING PAGE <br>
 
 ### THIS IS THE SEVENTH PROJECT ON HTML AND CSS <BR><BR>
 
